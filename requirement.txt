@@ -1,6 +1,10 @@
-numpy==2.2.1
-pandas==2.2.3
 streamlit
+openpyxl
+pandas==2.2.3
+numpy==2.2.1
 matplotlib
+seaborn
+plotly
 scikit-learn
-pip==24.3.1
+pyclustering
+scipy
